@@ -1,4 +1,4 @@
-# MAD Project - Radio Music Player
+# Mobile App Development Project - Radio Music Player
 
 ![App Icon](path/to/app-icon.png)
 
