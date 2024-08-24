@@ -1,6 +1,3 @@
-Certainly! Here’s the `README.md` file in code format, ready for you to use:
-
-```markdown
 # MAD Project - Radio Music Player
 
 ![App Icon](path/to/app-icon.png)
