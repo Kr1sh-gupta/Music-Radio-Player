@@ -1,6 +1,7 @@
 # Mobile App Development Project - Radio Music Player
 
-![App Icon](path/to/app-icon.png)
+![App Icon](https://github.com/Kr1sh-gupta/Music-Radio-Player/blob/main/app/src/main/res/drawable/radio.png)
+
 
 ## Overview
 
