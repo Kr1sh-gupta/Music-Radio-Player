@@ -21,10 +21,10 @@ Radio music player Developed using Java in Android Studio, the app allows users 
 ![Home Screen](https://github.com/Kr1sh-gupta/Music-Radio-Player/blob/main/screenshot/IMG-20240728-WA0012.jpg)
 *Home Screen with song metadata and background image.*
 
-![Navigation Drawer](path/to/screenshot2.png)
+![Navigation Drawer](https://github.com/Kr1sh-gupta/Music-Radio-Player/blob/main/screenshot/IMG-20240728-WA0014.jpg)
 *Left Navigation Drawer with Home, Additional Permission, and About options.*
 
-![App Icon](path/to/screenshot3.png)
+![App Icon](https://github.com/Kr1sh-gupta/Music-Radio-Player/blob/main/screenshot/IMG-20240728-WA0017.jpg)
 *App Icon on the home screen.*
 
 ## How It Works
