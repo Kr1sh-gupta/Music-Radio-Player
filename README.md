@@ -66,4 +66,3 @@ Feel free to fork this repository and contribute by submitting a pull request. F
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Replace the placeholders like `path/to/app-icon.png` and `path/to/screenshot1.png` with the actual paths to your images in the repository. You can now copy this code and paste it into your `README.md` file on GitHub.
