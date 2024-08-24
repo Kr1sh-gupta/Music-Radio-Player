@@ -5,11 +5,12 @@
 
 ## Overview
 
-MAD Project is an Android application that serves as a radio music player. Developed using Java in Android Studio, the app allows users to stream music, with additional features like automatic song metadata fetching, background updates, a left navigation drawer, and a set timer function to stop the radio player after a specified time.
+Radio music player Developed using Java in Android Studio, the app allows users to stream music, with additional features like automatic song metadata fetching, background updates, a left navigation drawer, and a set timer function to stop the radio player after a specified time.
 
 ## Features
 
 - **Live Radio Streaming:** Listen to live radio music from various stations.
+- **Public Api:** http://stream.zeno.fm/3t49buv4ya0uv
 - **Automatic Metadata Fetching:** The app automatically fetches song metadata (title, artist) and updates the background image accordingly using an API.
 - **Left Navigation Drawer:** Provides easy access to the Home screen, additional permissions, and an About section.
 - **Set Timer Function:** Allows users to set a timer to automatically stop the radio player after a chosen duration.
@@ -17,7 +18,7 @@ MAD Project is an Android application that serves as a radio music player. Devel
 
 ## Screenshots
 
-![Home Screen](path/to/screenshot1.png)
+![Home Screen](https://github.com/Kr1sh-gupta/Music-Radio-Player/blob/main/screenshot/IMG-20240728-WA0012.jpg)
 *Home Screen with song metadata and background image.*
 
 ![Navigation Drawer](path/to/screenshot2.png)
