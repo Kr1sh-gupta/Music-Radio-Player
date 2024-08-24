@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="facebook">https://facebook.com</string>
+    <string name="instagram">https://instagram.com</string>
+    <string name="twitter">https://twitter.com</string>
+    <string name="youtube">https://youtube.com</string>
+    <string name="whatsapp">1123456789</string>
+    <string name="tiktok">https://tiktok.com/</string>
+    <string name="linkedin">https://www.linkedin.com/in/krishguptaenthu/</string>
+    <string name="website">https://www.linkedin.com/in/om-bhargava-59276b29a/</string>
+    <string name="phone_no">+11234567890</string>
+
+</resources>
